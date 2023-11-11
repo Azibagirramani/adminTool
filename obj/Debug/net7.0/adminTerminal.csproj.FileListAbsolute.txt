@@ -1,0 +1,14 @@
+/Users/Kelvin/Documents/csharp/adminTerminal/bin/Debug/net7.0/adminTerminal
+/Users/Kelvin/Documents/csharp/adminTerminal/bin/Debug/net7.0/adminTerminal.deps.json
+/Users/Kelvin/Documents/csharp/adminTerminal/bin/Debug/net7.0/adminTerminal.runtimeconfig.json
+/Users/Kelvin/Documents/csharp/adminTerminal/bin/Debug/net7.0/adminTerminal.dll
+/Users/Kelvin/Documents/csharp/adminTerminal/bin/Debug/net7.0/adminTerminal.pdb
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.AssemblyInfoInputs.cache
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.AssemblyInfo.cs
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.csproj.CoreCompileInputs.cache
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.dll
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/refint/adminTerminal.dll
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.pdb
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/adminTerminal.genruntimeconfig.cache
+/Users/Kelvin/Documents/csharp/adminTerminal/obj/Debug/net7.0/ref/adminTerminal.dll

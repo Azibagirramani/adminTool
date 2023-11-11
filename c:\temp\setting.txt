@@ -1,0 +1,6 @@
+is_active=false
+auth_type=local
+is_new=true
+username=kelvin
+username=k
+username=k
